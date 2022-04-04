@@ -1,0 +1,9 @@
+1) We assume it will take about 10 minutes to read an article. 
+and there are 60 different articles. which means it will take around 10 hours!.
+
+2) We have learned Bash is a very efficient tool for some needs, and might be much more easier than writing the same program in c.
+Another possible use for Bash:If someone's phone-log is given, we can easily find how many times he called a specific number.
+
+3) We can write another script, that will run this script every hour.
+To avoid scanning the same article twice, we can save their urls somewhere and check whether theyre new or not.
+Also we can try to use the articke time mark- to check if it was published before or after the last scan.
